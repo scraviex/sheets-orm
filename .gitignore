@@ -6,3 +6,4 @@ tests
 .git
 .gitignore
 .env
+.env.locale
