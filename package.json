@@ -1,6 +1,6 @@
 {
   "name": "sheets-orm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Mengakses Google Sheets seperti database dengan query mirip ORM",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
