@@ -3,9 +3,9 @@ name: Publish to NPM
 on:
   push:
     branches:
-      - main # Hanya berjalan di branch "main"
+      - main 
     tags:
-      - 'v*' # Hanya berjalan saat ada tag baru (v1.0.0, v1.1.0, dll)
+      - 'v*'
 
 jobs:
   publish:
