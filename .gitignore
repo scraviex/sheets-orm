@@ -1,1 +1,10 @@
+# Jangan upload file yang tidak dibutuhkan
 node_modules
+dist
+example
+tests
+jest.config.js
+tsconfig.json
+.git
+.gitignore
+.env
