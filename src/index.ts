@@ -1,6 +1,5 @@
 import { GoogleSheetsORM } from "../src/orm";
 
-// Ambil Spreadsheet ID dan Sheet Name dari environment variable
 const SPREADSHEET_ID = process.env.SPREADSHEET_ID!;
 const SHEET_NAME = process.env.SHEET_NAME!;
 
